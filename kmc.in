@@ -1,0 +1,12 @@
+&INPUT
+xlay = 10 
+ylay = 10
+zlay = 10
+slay = 1
+rlay = 1
+tmp = 1000
+mcstp = 10000
+lat = 221
+latpar = 5.23, 5.23, 5.23
+atnm = "E", "Fe", "Mn", "Gd"
+/
